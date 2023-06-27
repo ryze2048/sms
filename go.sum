@@ -27,6 +27,8 @@ github.com/alibabacloud-go/tea-xml v1.1.2 h1:oLxa7JUXm2EDFzMg+7oRsYc+kutgCVwm+bZ
 github.com/alibabacloud-go/tea-xml v1.1.2/go.mod h1:Rq08vgCcCAjHyRi/M7xlHKUykZCEtyBy9+DPF6GgEu8=
 github.com/aliyun/credentials-go v1.1.2 h1:qU1vwGIBb3UJ8BwunHDRFtAhS6jnQLnde/yk0+Ih2GY=
 github.com/aliyun/credentials-go v1.1.2/go.mod h1:ozcZaMR5kLM7pwtCMEpVmQ242suV6qTJya2bDq4X1Tw=
+github.com/apistd/uni-go-sdk v0.0.2 h1:7kqETCOz/rz8AQU55XGzxDFGoFeMgeZL5fGwvxKBZrc=
+github.com/apistd/uni-go-sdk v0.0.2/go.mod h1:eIqYos4IbHgE/rB75r05ypNLahooEMJCrbjXq322b74=
 github.com/baidubce/bce-sdk-go v0.9.151 h1:AWCcndmlt29ti2iJ9Re1pInOOnAplY2KGMAsN3LCTjw=
 github.com/baidubce/bce-sdk-go v0.9.151/go.mod h1:zbYJMQwE4IZuyrJiFO8tO8NbtYiKTFTbwh4eIsqjVdg=
 github.com/clbanning/mxj/v2 v2.5.5 h1:oT81vUeEiQQ/DcHbzSytRngP6Ky9O+L+0Bw0zSJag9E=
